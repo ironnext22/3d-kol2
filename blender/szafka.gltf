@@ -1,0 +1,182 @@
+{
+	"asset":
+	{
+		"version": "2.0",
+		"generator": "Unreal Engine 5.4.4"
+	},
+	"scene": 0,
+	"accessors": [
+		{
+			"bufferView": 0,
+			"count": 200784,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 1,
+			"count": 58012,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -0.513608396, -2.51468301, -2.00882339 ],
+			"max": [ 0.491376936, 0.83702606, 5.96665287 ]
+		},
+		{
+			"bufferView": 2,
+			"count": 58012,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 3,
+			"count": 58012,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 4,
+			"count": 58012,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 5,
+			"count": 58012,
+			"type": "VEC2",
+			"componentType": 5126
+		}
+	],
+	"buffers": [
+		{
+			"uri": "szafka.bin",
+			"byteLength": 3650240
+		}
+	],
+	"bufferViews": [
+		{
+			"buffer": 0,
+			"byteLength": 401568,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 696144,
+			"byteOffset": 401568,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 696144,
+			"byteOffset": 1097712,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 928192,
+			"byteOffset": 1793856,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 464096,
+			"byteOffset": 2722048,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 464096,
+			"byteOffset": 3186144,
+			"target": 34962
+		}
+	],
+	"images": [
+		{
+			"uri": "philips_screw_Cabinet_shelf_SG_baseColor.png"
+		},
+		{
+			"uri": "philips_screw_Cabinet_shelf_SG_metallicRoughness.png"
+		},
+		{
+			"uri": "philips_screw_Cabinet_shelf_SG_normal.png"
+		}
+	],
+	"materials": [
+		{
+			"name": "philips_screw_Cabinet_shelf_SG_SM_MERGED_StaticMeshActor_UAID_581122BC1080993702_1166877547",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 0
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 1
+				}
+			},
+			"normalTexture":
+			{
+				"index": 2
+			},
+			"occlusionTexture":
+			{
+				"index": 1
+			},
+			"doubleSided": true
+		}
+	],
+	"meshes": [
+		{
+			"name": "SM_MERGED_StaticMeshActor_UAID_581122BC1080993702_1166877547",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 1,
+						"NORMAL": 2,
+						"TANGENT": 3,
+						"TEXCOORD_0": 4,
+						"TEXCOORD_1": 5
+					},
+					"indices": 0,
+					"material": 0
+				}
+			]
+		}
+	],
+	"nodes": [
+		{
+			"name": "SM_MERGED_StaticMeshActor_UAID_581122BC1080993702_1166877547",
+			"translation": [ 6.45500374, 2.68869495, 19.7580776 ],
+			"mesh": 0
+		}
+	],
+	"samplers": [
+		{
+			"minFilter": 9987,
+			"magFilter": 9729
+		}
+	],
+	"scenes": [
+		{
+			"name": "Untitled",
+			"nodes": [ 0 ]
+		}
+	],
+	"textures": [
+		{
+			"name": "philips_screw_Cabinet_shelf_SG_baseColor",
+			"sampler": 0,
+			"source": 0
+		},
+		{
+			"name": "philips_screw_Cabinet_shelf_SG_metallicRoughness",
+			"sampler": 0,
+			"source": 1
+		},
+		{
+			"name": "philips_screw_Cabinet_shelf_SG_normal",
+			"sampler": 0,
+			"source": 2
+		}
+	]
+}

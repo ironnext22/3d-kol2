@@ -1,0 +1,155 @@
+{
+	"asset":
+	{
+		"version": "2.0",
+		"generator": "Unreal Engine 5.4.4"
+	},
+	"scene": 0,
+	"accessors": [
+		{
+			"bufferView": 0,
+			"count": 72,
+			"type": "SCALAR",
+			"componentType": 5121
+		},
+		{
+			"bufferView": 1,
+			"count": 48,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -2.30801272, -11.5610456, -0.5 ],
+			"max": [ 0.5417822, 3.49759507, 0.5 ]
+		},
+		{
+			"bufferView": 2,
+			"count": 48,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 3,
+			"count": 48,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 4,
+			"count": 48,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 5,
+			"count": 48,
+			"type": "VEC2",
+			"componentType": 5126
+		}
+	],
+	"buffers": [
+		{
+			"uri": "pilar7.bin",
+			"byteLength": 2760
+		}
+	],
+	"bufferViews": [
+		{
+			"buffer": 0,
+			"byteLength": 72,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 576,
+			"byteOffset": 72,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 576,
+			"byteOffset": 648,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 768,
+			"byteOffset": 1224,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 384,
+			"byteOffset": 1992,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 384,
+			"byteOffset": 2376,
+			"target": 34962
+		}
+	],
+	"images": [
+		{
+			"uri": "e327cd4b-5ad7-4fc3-bd9b-1af12294d154_Mat_BaseColor.png"
+		}
+	],
+	"materials": [
+		{
+			"name": "e327cd4b-5ad7-4fc3-bd9b-1af12294d154_Mat",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 0
+				},
+				"metallicFactor": 0,
+				"roughnessFactor": 0.5
+			}
+		}
+	],
+	"meshes": [
+		{
+			"name": "SM_MERGED_StaticMeshActor_UAID_581122BC10809A3702_1861120757",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 1,
+						"NORMAL": 2,
+						"TANGENT": 3,
+						"TEXCOORD_0": 4,
+						"TEXCOORD_1": 5
+					},
+					"indices": 0,
+					"material": 0
+				}
+			]
+		}
+	],
+	"nodes": [
+		{
+			"name": "SM_MERGED_StaticMeshActor_UAID_581122BC10809A3702_1861120759",
+			"translation": [ 6.55995083, 11.7627974, 26.5842323 ],
+			"mesh": 0
+		}
+	],
+	"samplers": [
+		{
+			"minFilter": 9987,
+			"magFilter": 9729
+		}
+	],
+	"scenes": [
+		{
+			"name": "Untitled",
+			"nodes": [ 0 ]
+		}
+	],
+	"textures": [
+		{
+			"name": "e327cd4b-5ad7-4fc3-bd9b-1af12294d154_Mat_BaseColor",
+			"sampler": 0,
+			"source": 0
+		}
+	]
+}

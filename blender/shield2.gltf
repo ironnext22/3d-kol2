@@ -1,0 +1,158 @@
+{
+	"asset":
+	{
+		"version": "2.0",
+		"generator": "Unreal Engine 5.4.4"
+	},
+	"scene": 0,
+	"accessors": [
+		{
+			"bufferView": 0,
+			"count": 1560,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 1,
+			"count": 715,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -197.377182, 5.35163927, -200.656067 ],
+			"max": [ 197.377151, 86.4276428, 194.098251 ]
+		},
+		{
+			"bufferView": 2,
+			"count": 715,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 3,
+			"count": 715,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 4,
+			"count": 715,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 5,
+			"count": 715,
+			"type": "VEC2",
+			"componentType": 5126
+		}
+	],
+	"buffers": [
+		{
+			"uri": "shield2.bin",
+			"byteLength": 43160
+		}
+	],
+	"bufferViews": [
+		{
+			"buffer": 0,
+			"byteLength": 3120,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 8580,
+			"byteOffset": 3120,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 8580,
+			"byteOffset": 11700,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 11440,
+			"byteOffset": 20280,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 5720,
+			"byteOffset": 31720,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 5720,
+			"byteOffset": 37440,
+			"target": 34962
+		}
+	],
+	"images": [
+		{
+			"uri": "stylized_low_poly_viking_shield_texture_0.png"
+		}
+	],
+	"materials": [
+		{
+			"name": "viking_shield_stylized_low_poly_viking_shield2",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 0
+				},
+				"metallicFactor": 0,
+				"roughnessFactor": 0.500284255
+			},
+			"doubleSided": true
+		}
+	],
+	"meshes": [
+		{
+			"name": "stylized_low_poly_viking_shield2",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 1,
+						"NORMAL": 2,
+						"TANGENT": 3,
+						"TEXCOORD_0": 4,
+						"TEXCOORD_1": 5
+					},
+					"indices": 0,
+					"material": 0
+				}
+			]
+		}
+	],
+	"nodes": [
+		{
+			"name": "stylized_low_poly_viking_shield2",
+			"translation": [ 6.46427822, 8.22686291, 12.719841 ],
+			"rotation": [ -0, -0, 0.707106829, 0.707106829 ],
+			"scale": [ 0.00999999978, 0.00999999978, 0.00999999978 ],
+			"mesh": 0
+		}
+	],
+	"samplers": [
+		{
+			"minFilter": 9987,
+			"magFilter": 9729
+		}
+	],
+	"scenes": [
+		{
+			"name": "Untitled",
+			"nodes": [ 0 ]
+		}
+	],
+	"textures": [
+		{
+			"name": "stylized_low_poly_viking_shield_texture_0",
+			"sampler": 0,
+			"source": 0
+		}
+	]
+}

@@ -1,0 +1,220 @@
+{
+	"asset":
+	{
+		"version": "2.0",
+		"generator": "Unreal Engine 5.4.4"
+	},
+	"scene": 0,
+	"accessors": [
+		{
+			"bufferView": 0,
+			"count": 6492,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 1,
+			"count": 1990,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -0.309859276, 0.000344656029, -0.276242316 ],
+			"max": [ 0.253823996, 1.17386901, 0.276241958 ]
+		},
+		{
+			"bufferView": 2,
+			"count": 1990,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 3,
+			"count": 1990,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 4,
+			"count": 1990,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 5,
+			"count": 1990,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 6,
+			"count": 1990,
+			"type": "VEC2",
+			"componentType": 5126
+		}
+	],
+	"buffers": [
+		{
+			"uri": "krzesło2.bin",
+			"byteLength": 140344
+		}
+	],
+	"bufferViews": [
+		{
+			"buffer": 0,
+			"byteLength": 12984,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 23880,
+			"byteOffset": 12984,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 23880,
+			"byteOffset": 36864,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 31840,
+			"byteOffset": 60744,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 15920,
+			"byteOffset": 92584,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 15920,
+			"byteOffset": 108504,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 15920,
+			"byteOffset": 124424,
+			"target": 34962
+		}
+	],
+	"images": [
+		{
+			"uri": "low_poly_old_wood_chair_texture_0.png"
+		},
+		{
+			"uri": "low_poly_old_wood_chair_texture_1.png"
+		},
+		{
+			"uri": "low_poly_old_wood_chair_texture_2.png"
+		},
+		{
+			"uri": "low_poly_old_wood_chair_texture_3.png"
+		}
+	],
+	"materials": [
+		{
+			"name": "Wood_001_low_poly_old_wood_chair2",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 0
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 1
+				}
+			},
+			"normalTexture":
+			{
+				"index": 3
+			},
+			"emissiveTexture":
+			{
+				"index": 2
+			},
+			"emissiveFactor": [ 1, 1, 1 ],
+			"doubleSided": true,
+			"extensions":
+			{
+				"KHR_materials_specular":
+				{
+					"specularFactor": 0.08366739
+				},
+				"KHR_materials_emissive_strength":
+				{
+					"emissiveStrength": 8.6031456
+				}
+			}
+		}
+	],
+	"meshes": [
+		{
+			"name": "low_poly_old_wood_chair2",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 1,
+						"NORMAL": 2,
+						"TANGENT": 3,
+						"TEXCOORD_0": 4,
+						"TEXCOORD_1": 5,
+						"TEXCOORD_2": 6
+					},
+					"indices": 0,
+					"material": 0
+				}
+			]
+		}
+	],
+	"nodes": [
+		{
+			"name": "low_poly_old_wood_chair2",
+			"translation": [ -1.90605414, 0.199999988, 24.0161858 ],
+			"scale": [ 2, 2, 2 ],
+			"mesh": 0
+		}
+	],
+	"samplers": [
+		{
+			"minFilter": 9987,
+			"magFilter": 9729
+		}
+	],
+	"scenes": [
+		{
+			"name": "Untitled",
+			"nodes": [ 0 ]
+		}
+	],
+	"textures": [
+		{
+			"name": "low_poly_old_wood_chair_texture_0",
+			"sampler": 0,
+			"source": 0
+		},
+		{
+			"name": "low_poly_old_wood_chair_texture_1",
+			"sampler": 0,
+			"source": 1
+		},
+		{
+			"name": "low_poly_old_wood_chair_texture_2",
+			"sampler": 0,
+			"source": 2
+		},
+		{
+			"name": "low_poly_old_wood_chair_texture_3",
+			"sampler": 0,
+			"source": 3
+		}
+	],
+	"extensionsUsed": [
+		"KHR_materials_specular",
+		"KHR_materials_emissive_strength"
+	]
+}

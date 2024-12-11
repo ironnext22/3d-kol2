@@ -1,0 +1,303 @@
+{
+	"asset":
+	{
+		"version": "2.0",
+		"generator": "Unreal Engine 5.4.4"
+	},
+	"scene": 0,
+	"accessors": [
+		{
+			"bufferView": 0,
+			"count": 8928,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 1,
+			"count": 3316,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -0.271490544, 0.0282047577, 0.532505453 ],
+			"max": [ 0.390209198, 0.91192317, 1.19151986 ]
+		},
+		{
+			"bufferView": 2,
+			"count": 3316,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 3,
+			"count": 3316,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 4,
+			"count": 3316,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 5,
+			"count": 3316,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 6,
+			"count": 3316,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 7,
+			"count": 8928,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 8,
+			"count": 3316,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -0.273965538, 0.0282047577, -0.416972876 ],
+			"max": [ 0.383654505, 0.91192317, 0.240647018 ]
+		},
+		{
+			"bufferView": 9,
+			"count": 3316,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 10,
+			"count": 3316,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 11,
+			"count": 3316,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 12,
+			"count": 3316,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 13,
+			"count": 3316,
+			"type": "VEC2",
+			"componentType": 5126
+		}
+	],
+	"buffers": [
+		{
+			"uri": "beczki1.bin",
+			"byteLength": 460160
+		}
+	],
+	"bufferViews": [
+		{
+			"buffer": 0,
+			"byteLength": 17856,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 39792,
+			"byteOffset": 17856,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 39792,
+			"byteOffset": 57648,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 53056,
+			"byteOffset": 97440,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 26528,
+			"byteOffset": 150496,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 26528,
+			"byteOffset": 177024,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 26528,
+			"byteOffset": 203552,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 17856,
+			"byteOffset": 230080,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 39792,
+			"byteOffset": 247936,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 39792,
+			"byteOffset": 287728,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 53056,
+			"byteOffset": 327520,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 26528,
+			"byteOffset": 380576,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 26528,
+			"byteOffset": 407104,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 26528,
+			"byteOffset": 433632,
+			"target": 34962
+		}
+	],
+	"images": [
+		{
+			"uri": "medieval_barrels_texture_0.png"
+		},
+		{
+			"uri": "medieval_barrels_texture_1.png"
+		},
+		{
+			"uri": "medieval_barrels_texture_2.png"
+		}
+	],
+	"materials": [
+		{
+			"name": "barrel_2_medieval_barrels",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 0
+				},
+				"metallicFactor": 0,
+				"roughnessFactor": 0.89426285
+			},
+			"doubleSided": true
+		},
+		{
+			"name": "bareel_1_medieval_barrels",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 1
+				},
+				"metallicFactor": 0,
+				"roughnessFactor": 0.89426285
+			},
+			"normalTexture":
+			{
+				"index": 2
+			},
+			"doubleSided": true
+		}
+	],
+	"meshes": [
+		{
+			"name": "medieval_barrels",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 1,
+						"NORMAL": 2,
+						"TANGENT": 3,
+						"TEXCOORD_0": 4,
+						"TEXCOORD_1": 5,
+						"TEXCOORD_2": 6
+					},
+					"indices": 0,
+					"material": 0
+				},
+				{
+					"attributes":
+					{
+						"POSITION": 8,
+						"NORMAL": 9,
+						"TANGENT": 10,
+						"TEXCOORD_0": 11,
+						"TEXCOORD_1": 12,
+						"TEXCOORD_2": 13
+					},
+					"indices": 7,
+					"material": 1
+				}
+			]
+		}
+	],
+	"nodes": [
+		{
+			"name": "medieval_barrels",
+			"translation": [ 4.96373606, 0.200000212, 26.6442432 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"scale": [ 2, 1.5, 2 ],
+			"mesh": 0
+		}
+	],
+	"samplers": [
+		{
+			"minFilter": 9987,
+			"magFilter": 9729
+		}
+	],
+	"scenes": [
+		{
+			"name": "Untitled",
+			"nodes": [ 0 ]
+		}
+	],
+	"textures": [
+		{
+			"name": "medieval_barrels_texture_0",
+			"sampler": 0,
+			"source": 0
+		},
+		{
+			"name": "medieval_barrels_texture_1",
+			"sampler": 0,
+			"source": 1
+		},
+		{
+			"name": "medieval_barrels_texture_2",
+			"sampler": 0,
+			"source": 2
+		}
+	]
+}

@@ -1,0 +1,492 @@
+{
+	"asset":
+	{
+		"version": "2.0",
+		"generator": "Unreal Engine 5.4.4"
+	},
+	"scene": 0,
+	"accessors": [
+		{
+			"bufferView": 0,
+			"count": 5748,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 1,
+			"count": 1292,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -2.4027245, -0.0367735289, -1.38297355 ],
+			"max": [ 0.214099109, 0.0519561768, 0.105802 ]
+		},
+		{
+			"bufferView": 2,
+			"count": 1292,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 3,
+			"count": 1292,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 4,
+			"count": 1292,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 5,
+			"count": 1292,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 6,
+			"count": 1292,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 7,
+			"count": 8496,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 8,
+			"count": 2122,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -2.70262933, -1.30297971, -2.16252184 ],
+			"max": [ 0.362592757, 0.0469120778, 1.17150021 ]
+		},
+		{
+			"bufferView": 9,
+			"count": 2122,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 10,
+			"count": 2122,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 11,
+			"count": 2122,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 12,
+			"count": 2122,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 13,
+			"count": 2122,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 14,
+			"count": 12984,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 15,
+			"count": 3980,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -1.66658926, -1.28404307, -3.42933345 ],
+			"max": [ -0.346704096, 1.06300569, 2.35044456 ]
+		},
+		{
+			"bufferView": 16,
+			"count": 3980,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 17,
+			"count": 3980,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 18,
+			"count": 3980,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 19,
+			"count": 3980,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 20,
+			"count": 3980,
+			"type": "VEC2",
+			"componentType": 5126
+		}
+	],
+	"buffers": [
+		{
+			"uri": "stół2.bin",
+			"byteLength": 527672
+		}
+	],
+	"bufferViews": [
+		{
+			"buffer": 0,
+			"byteLength": 11496,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 15504,
+			"byteOffset": 11496,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 15504,
+			"byteOffset": 27000,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 20672,
+			"byteOffset": 42504,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 10336,
+			"byteOffset": 63176,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 10336,
+			"byteOffset": 73512,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 10336,
+			"byteOffset": 83848,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 16992,
+			"byteOffset": 94184,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 25464,
+			"byteOffset": 111176,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 25464,
+			"byteOffset": 136640,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 33952,
+			"byteOffset": 162104,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 16976,
+			"byteOffset": 196056,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 16976,
+			"byteOffset": 213032,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 16976,
+			"byteOffset": 230008,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 25968,
+			"byteOffset": 246984,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 47760,
+			"byteOffset": 272952,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 47760,
+			"byteOffset": 320712,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 63680,
+			"byteOffset": 368472,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 31840,
+			"byteOffset": 432152,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 31840,
+			"byteOffset": 463992,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 31840,
+			"byteOffset": 495832,
+			"target": 34962
+		}
+	],
+	"images": [
+		{
+			"uri": "fantasy_cutlass_low_poly_texture_0.png"
+		},
+		{
+			"uri": "wood_table_texture_0.png"
+		},
+		{
+			"uri": "wood_table_texture_1.png"
+		},
+		{
+			"uri": "wood_table_texture_2.png"
+		},
+		{
+			"uri": "low_poly_old_wood_chair_texture_0.png"
+		},
+		{
+			"uri": "low_poly_old_wood_chair_texture_1.png"
+		},
+		{
+			"uri": "low_poly_old_wood_chair_texture_2.png"
+		},
+		{
+			"uri": "low_poly_old_wood_chair_texture_3.png"
+		}
+	],
+	"materials": [
+		{
+			"name": "Material_SM_MERGED_StaticMeshActor_UAID_581122BC1080963702_2103347980",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 0
+				},
+				"metallicFactor": 0
+			},
+			"doubleSided": true,
+			"extensions":
+			{
+				"KHR_materials_specular":
+				{
+					"specularFactor": 0.412953645
+				}
+			}
+		},
+		{
+			"name": "Scene_-_Root_SM_MERGED_StaticMeshActor_UAID_581122BC1080963702_2103347980",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 1
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 2
+				}
+			},
+			"normalTexture":
+			{
+				"index": 3
+			},
+			"occlusionTexture":
+			{
+				"index": 2
+			},
+			"doubleSided": true
+		},
+		{
+			"name": "Wood_001_SM_MERGED_StaticMeshActor_UAID_581122BC1080963702_2103347980",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 4
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 5
+				}
+			},
+			"normalTexture":
+			{
+				"index": 7
+			},
+			"emissiveTexture":
+			{
+				"index": 6
+			},
+			"emissiveFactor": [ 1, 1, 1 ],
+			"doubleSided": true,
+			"extensions":
+			{
+				"KHR_materials_specular":
+				{
+					"specularFactor": 0.08366739
+				},
+				"KHR_materials_emissive_strength":
+				{
+					"emissiveStrength": 8.6031456
+				}
+			}
+		}
+	],
+	"meshes": [
+		{
+			"name": "SM_MERGED_StaticMeshActor_UAID_581122BC1080963702_2103347980",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 1,
+						"NORMAL": 2,
+						"TANGENT": 3,
+						"TEXCOORD_0": 4,
+						"TEXCOORD_1": 5,
+						"TEXCOORD_2": 6
+					},
+					"indices": 0,
+					"material": 0
+				},
+				{
+					"attributes":
+					{
+						"POSITION": 8,
+						"NORMAL": 9,
+						"TANGENT": 10,
+						"TEXCOORD_0": 11,
+						"TEXCOORD_1": 12,
+						"TEXCOORD_2": 13
+					},
+					"indices": 7,
+					"material": 1
+				},
+				{
+					"attributes":
+					{
+						"POSITION": 15,
+						"NORMAL": 16,
+						"TANGENT": 17,
+						"TEXCOORD_0": 18,
+						"TEXCOORD_1": 19,
+						"TEXCOORD_2": 20
+					},
+					"indices": 14,
+					"material": 2
+				}
+			]
+		}
+	],
+	"nodes": [
+		{
+			"name": "SM_MERGED_StaticMeshActor_UAID_581122BC1080963702_2103347980",
+			"translation": [ -8.27288723, 1.51230311, 24.5614872 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 0
+		}
+	],
+	"samplers": [
+		{
+			"minFilter": 9987,
+			"magFilter": 9729
+		}
+	],
+	"scenes": [
+		{
+			"name": "Untitled",
+			"nodes": [ 0 ]
+		}
+	],
+	"textures": [
+		{
+			"name": "fantasy_cutlass_low_poly_texture_0",
+			"sampler": 0,
+			"source": 0
+		},
+		{
+			"name": "wood_table_texture_0",
+			"sampler": 0,
+			"source": 1
+		},
+		{
+			"name": "wood_table_texture_1",
+			"sampler": 0,
+			"source": 2
+		},
+		{
+			"name": "wood_table_texture_2",
+			"sampler": 0,
+			"source": 3
+		},
+		{
+			"name": "low_poly_old_wood_chair_texture_0",
+			"sampler": 0,
+			"source": 4
+		},
+		{
+			"name": "low_poly_old_wood_chair_texture_1",
+			"sampler": 0,
+			"source": 5
+		},
+		{
+			"name": "low_poly_old_wood_chair_texture_2",
+			"sampler": 0,
+			"source": 6
+		},
+		{
+			"name": "low_poly_old_wood_chair_texture_3",
+			"sampler": 0,
+			"source": 7
+		}
+	],
+	"extensionsUsed": [
+		"KHR_materials_specular",
+		"KHR_materials_emissive_strength"
+	]
+}
